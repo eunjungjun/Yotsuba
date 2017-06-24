@@ -6,7 +6,7 @@ If downloaded, the game can be played by running the application Yotsuba.exe in 
 
 Sample screens available below:
 
-![Start Screen](/Yotsuba/Resources/StartScreen1.jpg?raw=true "Start Screen")
+![Start Screen](/Yotsuba/Resources/StartScreen1.png?raw=true "Start Screen")
 
 ![Sample Text](http://i.imgur.com/2AUyM8i.jpg "Sample Text")
 
