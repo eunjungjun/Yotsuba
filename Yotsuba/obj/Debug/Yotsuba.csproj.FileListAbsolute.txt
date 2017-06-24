@@ -1,0 +1,13 @@
+c:\users\windows\documents\visual studio 2015\Projects\Yotsuba\Yotsuba\bin\Debug\Yotsuba.exe.config
+c:\users\windows\documents\visual studio 2015\Projects\Yotsuba\Yotsuba\obj\Debug\Yotsuba.csprojResolveAssemblyReference.cache
+c:\users\windows\documents\visual studio 2015\Projects\Yotsuba\Yotsuba\obj\Debug\Yotsuba.Form1.resources
+c:\users\windows\documents\visual studio 2015\Projects\Yotsuba\Yotsuba\obj\Debug\Yotsuba.Properties.Resources.resources
+c:\users\windows\documents\visual studio 2015\Projects\Yotsuba\Yotsuba\obj\Debug\Yotsuba.csproj.GenerateResource.Cache
+c:\users\windows\documents\visual studio 2015\Projects\Yotsuba\Yotsuba\bin\Debug\Yotsuba.exe
+c:\users\windows\documents\visual studio 2015\Projects\Yotsuba\Yotsuba\bin\Debug\Yotsuba.pdb
+c:\users\windows\documents\visual studio 2015\Projects\Yotsuba\Yotsuba\obj\Debug\Yotsuba.exe
+c:\users\windows\documents\visual studio 2015\Projects\Yotsuba\Yotsuba\obj\Debug\Yotsuba.pdb
+C:\Users\windows\Documents\Visual Studio 2015\Projects\Yotsuba\Yotsuba\bin\Debug\Yotsuba.exe.manifest
+C:\Users\windows\Documents\Visual Studio 2015\Projects\Yotsuba\Yotsuba\bin\Debug\Yotsuba.application
+C:\Users\windows\Documents\Visual Studio 2015\Projects\Yotsuba\Yotsuba\obj\Debug\Yotsuba.exe.manifest
+C:\Users\windows\Documents\Visual Studio 2015\Projects\Yotsuba\Yotsuba\obj\Debug\Yotsuba.application
